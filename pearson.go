@@ -1,7 +1,7 @@
 /*
 Package pearson is an implementation of the Pearson hash algorithm.
 
-For an overview of the purposes, strengths, and limitation of the Pearson algorithm, see:
+For an overview of the purposes, strengths, and limitations of the Pearson algorithm, see:
 
      http://en.wikipedia.org/wiki/Pearson_hashing
      http://portal.acm.org/citation.cfm?id=78978
