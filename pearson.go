@@ -1,5 +1,5 @@
 /*
-Implementation of the Pearson hash algorithm.
+Package pearson is an implementation of the Pearson hash algorithm.
 
 For an overview of the purposes, strengths, and limitation of the Pearson algorithm, see:
 
@@ -54,7 +54,7 @@ func (p Pearson) Hash(s string) byte {
 		return byte(0)
 	}
 	var i byte
-	var hash byte = p.t[[]byte(s)[0]]
+	var hash = p.t[[]byte(s)[0]]
 	for _, c := range []byte(s)[1:] {
 		i = hash ^ c
 		hash = p.t[i]
@@ -70,7 +70,7 @@ func (p Pearson) Hash64(s string) [8]byte {
 	var hashes [8]byte
 	for seg := 0; seg < 8; seg++ {
 		var i byte
-		var hash byte = p.t[(int([]byte(s)[0])+seg)%256]
+		var hash = p.t[(int([]byte(s)[0])+seg)%256]
 		for _, c := range []byte(s)[1:] {
 			i = hash ^ c
 			hash = p.t[i]
