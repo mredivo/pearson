@@ -1,0 +1,168 @@
+"Compiled" form means the compiled bytecode, object code, binary,
+"Contributor" means any party that has contributed code or other
+"Copyright Holder" means the individual(s) or organization(s)
+"Distribute" means providing a copy of the Package or making it
+"Distributor Fee" means any fee that you charge for Distributing
+"Gubblebum Blocky" font
+"Modified Version" means the Package, if it has been changed, and
+"Node.js" trademark Joyent, Inc.  npm is not officially part of the Node.js
+"Original License" means this Artistic License as Distributed with
+"Package" means the collection of files distributed by the
+"Source" form means the source code, documentation source, and
+"Standard Version" refers to the Package if it has not been
+"You" and "your" means any person who would like to copy,
+"npm Logo" created by Mathias Pettersson and Brian Hammond,
+(1)  You are permitted to use the Standard Version and create and use
+(10)  Any use, modification, and distribution of the Standard or
+(11)  If your Modified Version has been derived from a Modified
+(12)  This license does not grant you the right to use any trademark,
+(13)  This license includes the non-exclusive, worldwide,
+(14)  Disclaimer of Warranty:
+(2)  You may Distribute verbatim copies of the Source form of the
+(3)  You may apply any bug fixes, portability changes, and other
+(4)  You may Distribute your Modified Version as Source (either gratis
+(5)  You may Distribute Compiled forms of the Standard Version without
+(6)  You may Distribute a Modified Version in Compiled form without
+(7)  You may aggregate the Package (either the Standard Version or
+(8) You are permitted to link Modified and Standard Versions with
+(9) Works (including, but not limited to, modules and scripts) that
+(a)  make the Modified Version available to the Copyright Holder
+(b)  ensure that installation of your Modified Version does not
+(c)  allow anyone who receives a copy of the Modified Version to
+(i)  the Original License or
+(ii)  a license that permits the licensee to freely copy,
+(including a cross-claim or counterclaim) against any party alleging
+--------
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Aggregating or Linking the Package
+All rights reserved.
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+Compiled form of the Package.
+Copyright (c) 2000-2006, The Perl Foundation.
+Copyright (c) by Tjarda Koster, http://jelloween.deviantart.com
+Copyright (c) npm, Inc. and Contributors
+Copyright Holder may include your modifications in the Standard
+Copyright Holder, and derivatives of that collection and/or of
+DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF
+Definitions
+Distribution of Compiled Forms of the Standard Version
+Distribution of Modified Versions of the Package as Source
+Everyone is permitted to copy and distribute verbatim copies
+Fees are allowed.
+General Provisions
+Holder.
+IS' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED
+If you provide valid instructions or cease distribution within thirty
+Items That are Not Considered Part of a Modified Version
+LAW. UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL
+Modified Version) provided that you clearly document how it differs
+Modified Version) with other packages and Distribute the resulting
+Modified Versions for any purpose without restriction, provided that
+Modified Versions is governed by this Artistic License. By using,
+NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL
+Package available as open source and free software.
+Package may be copied, modified, distributed, and/or redistributed.
+Package will still be considered the Standard Version, and as such
+Package.  Distributor Fees are permitted, and licensing fees for other
+Packages published in the npm registry (other than the Software and
+Permission for Use and Modification Without Distribution
+Permissions for Redistribution of the Standard Version
+Preamble
+Standard Version of this Package in any medium without restriction,
+THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS
+The Artistic License 2.0
+The intent is that the Copyright Holder maintains some artistic
+The text of the License follows:
+This license establishes the terms under which a given free software
+This program uses several Node modules contained in the node_modules/
+Version made by someone other than you, you are nevertheless required
+Version, and of any works derived from it, be made freely
+Version, or a Modified Version.
+Version.
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
+You are always permitted to make arrangements wholly outside of this
+a different licensing arrangement.
+accessible to anyone else, or in the case of a company or
+addition, the Modified Version must bear a name that is different
+aggregation provided that you do not charge a licensing fee for the
+all of the original copyright notices and associated disclaimers.  At
+any non-standard features, executables, or modules, and provided that
+apply to the use and Distribution of the Standard or Modified Versions
+as included in the aggregation.
+available in that license fees are prohibited but Distributor
+build stand-alone binary or bytecode versions of applications that
+by the Copyright Holder.
+components in the aggregation are permitted. The terms of this license
+configuration files for the Package.
+considered parts of the Package itself, and are not subject to the
+control over the development of that Package while still keeping the
+date that such litigation is filed.
+days after you become aware that the instructions are invalid, then
+distribute, or modify the Package.
+either gratis or for a Distributor Fee, provided that you duplicate
+free-of-charge patent license to make, have made, use, offer to sell,
+from the Standard Version, including, but not limited to, documenting
+from the name of the Standard Version.
+get the Source of the Standard Version.  Such instructions must be
+include the Package, and Distribute the result without restriction,
+included for use in the npm website and documentation,
+infringed by the Package. If you institute patent litigation
+infringement, then this Artistic License to you shall terminate on the
+it may be modified by The Perl Foundation in the future.
+its included dependencies) are not part of npm itself, are the sole
+license directly with the Copyright Holder of a given Package.  If the
+license.
+licensing terms that apply to the copy that the licensee
+make of the Package, you should contact the Copyright Holder and seek
+make the Source form of the Modified Version available to others
+material to the Package, in accordance with the Copyright Holder's
+merely extend or make use of the Package, do not, by themselves, cause
+modifications made available from the Copyright Holder.  The resulting
+modified, or has been modified only in ways explicitly requested
+modify and redistribute the Modified Version using the same
+modifying or distributing the Package, you accept this license. Do not
+must provide new instructions on demand or cease further distribution.
+named in the copyright notice for the entire Package.
+npm is released under the Artistic License 2.0.
+of the Standard Version, under the Original License, so that the
+of this license document, but changing it is not allowed.
+or Modified Versions without the Source
+or any other form resulting from mechanical transformation or
+or for a Distributor Fee, and with or without a Compiled form of the
+organization, to others outside of your company or organization.
+other works, to embed the Package in a larger work of your own, or to
+party.  It does not mean licensing fees.
+patent claims licensable by the Copyright Holder that are necessarily
+prevent the user installing or running the Standard Version. In
+procedures.
+project, and is neither owned by nor affiliated with Joyent, Inc.
+property of their respective maintainers, and are not covered by
+provided the result does not expose a direct interface to the Package.
+received, and requires that the Source form of the Modified
+sell, import and otherwise transfer the Package with respect to any
+service mark, tradename, or logo of the Copyright Holder.
+subdirectory, according to the terms of their respective licenses.
+such changes were not explicitly requested by the Copyright
+terms of this license do not permit the full use that you propose to
+terms of this license.
+that the Package constitutes direct or contributory patent
+the Package to be a Modified Version.  In addition, such works are not
+the Source of the Modified Version.
+the Source, provided that you comply with Section 4 with respect to
+the Source, provided that you include complete instructions on how to
+the Standard Version of the Package, in its current version or as
+this Package or providing support for this Package to another
+this license.
+those files. A given Package may consist of either the Standard
+time while you are carrying out such distribution, become invalid, you
+to ensure that your Modified Version complies with the requirements of
+translation of the Source form.
+under
+use, modify, or distribute the Package, if you do not accept this
+used with permission.
+valid at the time of your distribution.  If these instructions, at any
+will be subject to the Original License.
+you do at least ONE of the following:
+you do not Distribute the Modified Version.
+you do not forfeit any of your rights under this license.
+your discretion, such verbatim copies may or may not include a

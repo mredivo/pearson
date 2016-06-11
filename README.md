@@ -1,2 +1,2 @@
 # pearson
-Fast hashing algorithm for non-crypto use
+Fast hashing algorithm for non-crypto use.
